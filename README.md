@@ -46,8 +46,10 @@ Exact models are not strictly required, as the focus is on workflow design rathe
 ![Backdrop](images/inputs/ai-backdrop-backdrop1.png)
 ![Depth](images/inputs/ai-backdrop-depth-1.png)
 
-## Example Output
+## Example Outputs
 ![Output](images/outputs/ai-backdrop-s1-outcome.png)
+![Output](images/outputs/ai-backdrop-s2-outcome.png)
+![Output](images/outputs/ai-backdrop-s3-outcome.png)
 
 ## License
 
