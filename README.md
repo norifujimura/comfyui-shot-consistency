@@ -31,7 +31,7 @@ The focus of this project is on workflow design and iteration rather than specif
 
 Below is a simplified ComfyUI workflow used in these experiments.
 
-![Workflow](images/workflow_overview.png)
+![Workflow](images/ai-backdrop-workflow-overview.png)
 
 ## Notes on Setup
 
@@ -41,13 +41,13 @@ Exact models are not strictly required, as the focus is on workflow design rathe
 
 ## Example Input
 
-![Input](images/inputs/S1.png)
-![Mask](images/inputs/S1-mask.png)
-![Backdrop](images/inputs/backdrop1.png)
-![Depth](images/inputs/depth-1.png)
+![Input](images/inputs/ai-backdrop-s1.png)
+![Mask](images/inputs/ai-backdrop-s1-mask.png)
+![Backdrop](images/inputs/ai-backdrop-backdrop1.png)
+![Depth](images/inputs/ai-backdrop-depth-1.png)
 
 ## Example Output
-![Output](images/outputs/mar20th-01_00001_.png)
+![Output](images/outputs/ai-backdrop-s1-outcome.png)
 
 ## License
 
